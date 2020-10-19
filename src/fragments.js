@@ -1,6 +1,6 @@
 export const USER_FRAGMENT = `
         id
-        username
+        name
         avatar
 `;
 
